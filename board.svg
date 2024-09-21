@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="ePaperModule"
+   width="61.347454mm"
+   height="72.576485mm"
+   viewBox="0 0 171.36846 205.73523"
+   version="1.1"
+   sodipodi:docname="board.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.6432018"
+     inkscape:cx="171.92046"
+     inkscape:cy="179.22328"
+     inkscape:window-width="1312"
+     inkscape:window-height="794"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="ePaperModule" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+            .cls-1{fill:none;stroke:#fff;stroke-width:.31px;}.cls-1,.cls-2,.cls-3{stroke-miterlimit:4.51;}.cls-4{font-family:Arial-BoldMT,
+            Arial;font-size:6.36px;font-weight:700;}.cls-4,.cls-5,.cls-3{fill:#fff;}.cls-4,.cls-6{isolation:isolate;}.cls-2{fill:#cdcdcd;stroke:#666;stroke-width:.6px;}.cls-7{fill:#c3c3c3;}.cls-8{fill:#e5e5e5;}.cls-3{stroke:#ccc;stroke-width:.45px;}.cls-9{fill:#ccc;}.cls-10{fill:#244b7e;}</style>
+  </defs>
+  <path
+     id="Board"
+     class="cls-10"
+     d="M 172.05442,201.80998 V 3.925271 C 172.05442,1.769252 168.58345,0 164.3537,0 h -24.58742 c -8.07203,0 -4.84322,4.937448 -12.91525,4.937448 H 42.901871 C 34.829837,4.937448 38.058651,0 29.986617,0 H 5.8512351 C 1.621489,0 -1.8494856,1.769252 -1.8494856,3.925271 V 201.80998 c 0,2.15602 3.4709746,3.92527 7.7007207,3.92527 H 164.3537 c 4.22975,0 7.70072,-1.76925 7.70072,-3.92527 z"
+     style="stroke-width:1.15261" />
+  <g
+     id="tab"
+     transform="rotate(90,83.777148,83.777136)">
+    <rect
+       id="tab-base"
+       class="cls-7"
+       x="24.25"
+       y="8.7399998"
+       width="11.13"
+       height="16.299999" />
+    <circle
+       id="tab-hole"
+       class="cls-5"
+       cx="30.610001"
+       cy="14.31"
+       r="2.78" />
+  </g>
+  <g
+     id="holes"
+     transform="matrix(0,0.809539,-1.6536355,0,173.61007,0.302833)">
+    <circle
+       class="cls-5"
+       cx="6.7600002"
+       cy="100.56"
+       r="5.1700001"
+       id="circle1" />
+    <circle
+       class="cls-5"
+       cx="6.7600002"
+       cy="7.5500002"
+       r="5.1700001"
+       id="circle2" />
+    <circle
+       class="cls-5"
+       cx="243.25999"
+       cy="100.56"
+       r="5.1700001"
+       id="circle3" />
+    <circle
+       class="cls-5"
+       cx="243.25999"
+       cy="7.5500002"
+       r="5.1700001"
+       id="circle4" />
+  </g>
+  <g
+     class="cls-6"
+     id="g4"
+     transform="rotate(90,89.450518,48.37085)">
+    <text
+       class="cls-4"
+       transform="rotate(-90)"
+       id="text4"
+       x="-92.625084"
+       y="242.35135"><tspan
+         x="-92.625084"
+         y="242.35135"
+         id="tspan4">1.54inch e-Paper Module</tspan></text>
+  </g>
+  <path
+     id="frame"
+     class="cls-2"
+     d="m 167.23865,20.315777 h -34.98951 v 4.407586 c 0,3.599001 -9.73341,3.773402 -8.36227,3.781328 C 116.9296,28.496791 2.3969691,28.393709 2.3969691,28.393709 V 188.25592 H 167.23865 Z M 14.855735,185.89358 c -4.367339,0 -4.519688,-2.11659 -4.519688,-2.11659 V 33.14217 c 0,-0.721386 2.589935,-0.848223 2.589935,-0.848223 H 134.26353 c 5.38301,0 5.38301,-2.734922 5.38301,-2.734922 v -4.510642 c 0,-0.626257 2.69151,-0.94335 2.69151,-0.94335 h 15.47187 c 2.69151,0 2.69151,1.260443 2.69151,1.260443 V 183.85626 c 0,1.92633 -4.72282,2.04525 -4.72282,2.04525 H 14.838808 v 0 z" />
+  <rect
+     class="cls-1"
+     x="7.27"
+     y="-109.01328"
+     width="3.95"
+     height="55"
+     id="rect4"
+     transform="rotate(90)" />
+  <rect
+     class="cls-9"
+     x="7.4700007"
+     y="-109.28333"
+     width="3.45"
+     height="3.45"
+     id="rect5"
+     transform="rotate(90)" />
+  <g
+     id="g11"
+     transform="rotate(90,92.823058,68.040664)">
+    <circle
+       id="pin"
+       class="cls-3"
+       cx="53.40361"
+       cy="-34.093613"
+       stroke-width="0.4"
+       stroke="#ccc"
+       r="1.5"
+       transform="rotate(90)" />
+    <use
+       href="#pin"
+       y="7.1199999"
+       id="use5" />
+    <use
+       href="#pin"
+       y="14.24"
+       id="use6" />
+    <use
+       href="#pin"
+       y="21.336"
+       id="use7" />
+    <use
+       href="#pin"
+       y="28.48"
+       id="use8" />
+    <use
+       href="#pin"
+       y="35.599998"
+       id="use9" />
+    <use
+       href="#pin"
+       y="42.672001"
+       id="use10" />
+    <use
+       href="#pin"
+       y="49.779999"
+       id="use11" />
+  </g>
+  <rect
+     id="Paper"
+     class="cls-8"
+     x="35.433769"
+     y="-161.19438"
+     width="150.00484"
+     height="150.00484"
+     transform="rotate(90)"
+     style="stroke-width:1.14921" />
+</svg>
